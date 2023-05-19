@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1641235873 source:c:\k&m\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variables.h"
+	"hard(p&comp).h"
+	"easy(p&comp).h"
+
+1641235463 c:\k&m\hard(p&comp).h
+
+1641237332 c:\k&m\easy(p&comp).h
+
+1641235873 c:\k&m\variables.h
+
